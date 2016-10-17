@@ -1,4 +1,4 @@
-# List of prerequisites for the 2. Mainz Ethereum Meetup
+# Pprerequisites for the 2. Mainz Ethereum Meetup
 
 In order to not waste a lot of the limited time we have, please install and sync the latest Mist Wallet prior to the Meetup.
 This is necessary if you want to code your own smart contract or if you want to interact with one of the coded smart contracts
