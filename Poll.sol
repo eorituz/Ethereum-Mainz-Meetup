@@ -1,6 +1,31 @@
 pragma solidity ^0.4.2;
+//Contract defining to the modifier onlyOwner & allowing to transfer the Ownership
+//Needed to whitelist Poll participants
+contract owned {
+    address public owner;
+
+    function owned() {
+        owner = msg.sender;
+    }
+
+    modifier onlyOwner {
+        if (msg.sender != owner) throw;
+        _
+    }
+
+    function transferOwnership(address newOwner) onlyOwner {
+        owner = newOwner;
+    }
+}
+
+
+//Contract defining the Poll
 contract NewPoll {
 
+  //Maps an Address to a Boolean value to whitelist accounts
+  mapping (address => bool) public approvedAccount;
+    
+    
   //defines the poll's properties
   struct Poll {
     address owner;
@@ -12,8 +37,12 @@ contract NewPoll {
     uint numVotes;
   }
 
+
+
+
   // event tracking of all votes
   event NewVote(string votechoice);
+  event ApprovedAddress(address target, bool approved);
 
   // declare a public poll called p
   Poll public p;
@@ -29,9 +58,16 @@ contract NewPoll {
     p.numVotes = 0;
   }
 
+  //Function to whitelist poll paritcipants
+  function approveAddress(address target, bool approved) onlyOwner{
+    approvedAccount[target] = approved;
+    ApprovedAddress(target, approved);
+  }
+    
+
   //function for user vote. input is a string choice
   function vote(string choice) returns (bool) {
-    if (msg.sender != p.owner || p.status != true) {
+    if (msg.sender != p.owner || p.status != true || approvedAccount[msg.sender] != true) {
       return false;
     }
 
