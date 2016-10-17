@@ -72,4 +72,4 @@ contract Crowdsale {
         }
     }
 }
-// Plagiarized from Jacob Czepluch: https://github.com/czepluch/blockchain-summerschool/blob/master/code/CrowdFunding.sol
+// Plagiarized from Jacob Czepluch - Source on request
