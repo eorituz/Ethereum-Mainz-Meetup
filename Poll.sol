@@ -20,7 +20,7 @@ contract owned {
 
 
 //Contract defining the Poll
-contract NewPoll {
+contract NewPoll is owned {
 
   //Maps an Address to a Boolean value to whitelist accounts
   mapping (address => bool) public approvedAccount;
