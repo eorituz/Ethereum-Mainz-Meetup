@@ -47,7 +47,7 @@ contract NewPoll {
   // declare a public poll called p
   Poll public p;
 
-  //initiator function that stores the necessary poll information. Need to have the same name as the contract!
+  //initiator function that stores the necessary poll information. Needs to have the same name as the contract!
   function NewPoll(string _options, string _title, uint _votelimit, uint _deadline) {
     p.owner = msg.sender;
     p.options = _options;
@@ -58,7 +58,7 @@ contract NewPoll {
     p.numVotes = 0;
   }
 
-  //Function to whitelist poll paritcipants
+  //Function whitelisting poll paritcipants
   function approveAddress(address target, bool approved) onlyOwner{
     approvedAccount[target] = approved;
     ApprovedAddress(target, approved);
