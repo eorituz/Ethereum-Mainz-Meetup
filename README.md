@@ -8,3 +8,5 @@ Please note that support for participants that have not followed the instruction
 - Download the latest Ethereum Wallet application [HERE](https://github.com/ethereum/mist/releases). At the time of writing latest version is 0.8.6
 
 - Once the wallet application is installed, you should start syncing the Ethereum test-net Blockchain. When you run the application for the first time you will be prompted about which network to run. Please choose the test-net since that is the one we will be using during the Meetup. Be advised that syncing might take several hours.
+
+If you have any problems with slow syncing please read this thread: https://m.reddit.com/r/ethereum/comments/58bnef/if_you_are_running_a_geth_node_try_refastsyncing/
