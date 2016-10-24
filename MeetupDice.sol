@@ -6,7 +6,7 @@ pragma solidity ^0.4.2;
 
 import "github.com/oraclize/ethereum-api/oraclizeAPI_0.4.sol";
 
-contract SimpleDice is usingOraclize {
+contract MeetupDice is usingOraclize {
   mapping (bytes32 => address) bets;
     
   event Log(string message);
