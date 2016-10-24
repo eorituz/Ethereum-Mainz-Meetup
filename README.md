@@ -11,7 +11,7 @@ Please note that support for participants that have not followed the instruction
 
 If you have problems with slow syncing please read this thread: https://m.reddit.com/r/ethereum/comments/58bnef/if_you_are_running_a_geth_node_try_refastsyncing/
 
-# Don't worry if you can't sync with the testnet - it's not necessecary to join our Meetup :)
+<b>Don't worry if you can't sync with the testnet - it's not necessecary to join our Meetup :)</b>
 
 Feel free to join our Gitter Channel and ask your questions:
 https://gitter.im/ethereum-meetup-mainz/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link
