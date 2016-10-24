@@ -3,10 +3,9 @@
 In order to not waste a lot of the limited time we have, please install and sync the latest Mist Wallet prior to the Meetup.
 This is necessary if you want to code your own smart contract or if you want to interact with one of the coded smart contracts.
 
-Please note that support for participants that have not followed the instructions below, when the Meetup start, will be of lower priority.
+<i>Please note that support for participants that have not followed the instructions below, when the Meetup start, will be of lower priority.</i>
 
 - Download the latest Ethereum Wallet application [HERE](https://github.com/ethereum/mist/releases). At the time of writing latest version is 0.8.6
-
 - Once the wallet application is installed, you should start syncing the Ethereum test-net Blockchain. When you run the application for the first time you will be prompted about which network to run. Please choose the test-net since that is the one we will be using during the Meetup. Be advised that syncing might take several hours.
 
 If you have problems with slow syncing please read this thread: https://m.reddit.com/r/ethereum/comments/58bnef/if_you_are_running_a_geth_node_try_refastsyncing/
@@ -25,35 +24,38 @@ https://gitter.im/ethereum-meetup-mainz/Lobby?utm_source=share-link&utm_medium=l
 
 # Links
 
-## Development
+## Solidity Development
 
-### Solidty Development
+### Basics
+- [Solidity ReadTheDocs](https://solidity.readthedocs.io/en/develop/)
+- [Learn Solidity in Y Minutes](https://learnxinyminutes.com/docs/solidity/)
+- [Dapp-a-day by MakerDAO](https://steemit.com/ethereum/@nikolai/dapp-a-day-1-erc20)
+- [colony.io on solidity development](https://blog.colony.io/@elena_di)
+- [smart contract best practices by consensys](https://github.com/ConsenSys/smart-contract-best-practices)
 
-# [https://steemit.com/ethereum/@nikolai/dapp-a-day-1-erc20] Dapp-a-day by MakerDAO
-# [https://blog.colony.io/@elena_di] colony.io on solidity development
-# [https://github.com/ConsenSys/smart-contract-best-practices] smart contract best practices by consensys
+### Ether.Camp Studio IDE
+- [Ether.Camp ReadTheDocs](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/)
 
 ### Truffle 
+- http://truffle.readthedocs.io/
 
-# http://truffle.readthedocs.io/
-# https://learnxinyminutes.com/docs/solidity/
-# https://solidity.readthedocs.io/en/develop/
+### Browser-Solidity
+- [Browser-Solidity, use with MetaMask](https://ethereum.github.io/browser-solidity)
+
+## Ethereum (Dev) Tools
 
 ### Ether.Camp
-# https://morden.ether.camp/
-# https://live.ether.camp/
-# https://ethereum.github.io/browser-solidity
-# https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/deploy_metamask.html
+- [Morden Explorer](https://morden.ether.camp/)
+- [Mainnet Explorer](https://live.ether.camp/)
 
 ### Backend for web3js
-# https://infura.io/
-# https://morden.infura.io/3JRTiRpx5WXdcR5klwVk
+- [Infura](https://infura.io/)
 
-### Etherscan
-# https://testnet.etherscan.io/
+### Blockchain Explorer
+- [etherscan.io](https://testnet.etherscan.io/)
 
 ### MetaMask
-# https://metamask.io/
+- [MetaMask Chrome Browser Plugin](https://metamask.io/)
 
 ### Mist
-# https://github.com/ethereum/mist/releases
+- [Mist Browser](https://github.com/ethereum/mist/releases)
