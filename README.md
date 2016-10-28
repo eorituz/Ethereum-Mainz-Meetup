@@ -61,5 +61,9 @@ https://gitter.im/ethereum-meetup-mainz/Lobby?utm_source=share-link&utm_medium=l
 - [Mist Browser](https://github.com/ethereum/mist/releases)
 
 ## Oracles
+
+### Developer focussed (callback mechanism)
 - [oraclize.it](http://oraclize.it)
+
+### Business focussed (contract creation mechanism)
 - [SmartContract](https://testnet.smartcontract.com)
