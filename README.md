@@ -59,3 +59,7 @@ https://gitter.im/ethereum-meetup-mainz/Lobby?utm_source=share-link&utm_medium=l
 
 ### Mist
 - [Mist Browser](https://github.com/ethereum/mist/releases)
+
+## Oracles
+- [oraclize.it](http://oraclize.it)
+- [SmartContract](https://testnet.smartcontract.com)
