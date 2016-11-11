@@ -45,6 +45,7 @@ https://gitter.im/ethereum-meetup-mainz/Lobby?utm_source=share-link&utm_medium=l
 
 ### Private Chains
  - [Ethereum Consortium Blockhchain Network](https://github.com/Azure/azure-quickstart-templates/tree/master/ethereum-consortium-blockchain-network)
+ - [Ethereum Harmony](https://github.com/ether-camp/ethereum-harmony)
 
 ### Quality Assurance / Testing
  - [Ethereum Testing Reference for Studio IDE](https://github.com/ether-camp/ethereum-testing-reference)
@@ -62,6 +63,9 @@ https://gitter.im/ethereum-meetup-mainz/Lobby?utm_source=share-link&utm_medium=l
 - [Dapple/Dappsys](http://blog.nexusdev.us/dapple-tutorial/)
  
 ## Ethereum (Dev) Tools
+
+### JavaScript snippets for web3.js
+- [Stackexchange: Useful JavaScript Snippets](http://ethereum.stackexchange.com/questions/2531/common-useful-javascript-snippets-for-geth)
 
 ### Ether.Camp
 - [Morden Explorer](https://morden.ether.camp/)
