@@ -86,14 +86,14 @@ https://gitter.im/ethereum-meetup-mainz/Lobby?utm_source=share-link&utm_medium=l
 
 ## Ideas for next Meetups
 
-# Injecting Reality: Concept and Implementation of Oracles with oraclize.it
-# Using Dapps with MetaMask and Mist
-# The DAObakel: what happened and how to avoid it.
-# Beyond hello world: Software Engineering Principles in Smart Contract Development
-# Organisation of Meetup Groups as Decentral Automonuos Organisations: Creating a Meetup Group DAO
-# Beginning Smart Contract Development: browsersolidity, Mist and ether.camp
-# Revisiting centralisation: Bridging real world requirements and Ethereum VM
-# Dinosaurs Revenge... 0 loc js ... blockchainers.org
-# The TAO: The DAO done right
-# Hazelchain: the blockchain implemented in Hazelcast
+ # Injecting Reality: Concept and Implementation of Oracles with oraclize.it
+ # Using Dapps with MetaMask and Mist
+ # The DAObakel: what happened and how to avoid it.
+ # Beyond hello world: Software Engineering Principles in Smart Contract Development
+ # Organisation of Meetup Groups as Decentral Automonuos Organisations: Creating a Meetup Group DAO
+ # Beginning Smart Contract Development: browsersolidity, Mist and ether.camp
+ # Revisiting centralisation: Bridging real world requirements and Ethereum VM
+ # Dinosaurs Revenge... 0 loc js ... blockchainers.org
+ # The TAO: The DAO done right
+ # Hazelchain: the blockchain implemented in Hazelcast
 
