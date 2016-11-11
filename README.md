@@ -49,6 +49,7 @@ https://gitter.im/ethereum-meetup-mainz/Lobby?utm_source=share-link&utm_medium=l
 ### Quality Assurance / Testing
  - [Ethereum Testing Reference for Studio IDE](https://github.com/ether-camp/ethereum-testing-reference)
  - [Dapple/Dappsys](http://blog.nexusdev.us/dapple-tutorial/) 
+
 ### "Sidechains" - alternative Solutions for Ethereum Development
  - [Bloc/Blockapps](http://www.blockapps.net/)
  - [Eris](https://www.monax.io)
