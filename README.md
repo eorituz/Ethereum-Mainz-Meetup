@@ -48,7 +48,7 @@ https://gitter.im/ethereum-meetup-mainz/Lobby?utm_source=share-link&utm_medium=l
 
 ### Quality Assurance / Testing
  - [Ethereum Testing Reference for Studio IDE](https://github.com/ether-camp/ethereum-testing-reference)
- 
+ - [Dapple/Dappsys](http://blog.nexusdev.us/dapple-tutorial/) 
 ### "Sidechains" - alternative Solutions for Ethereum Development
  - [Bloc/Blockapps](http://www.blockapps.net/)
  - [Eris](https://www.monax.io)
@@ -57,6 +57,8 @@ https://gitter.im/ethereum-meetup-mainz/Lobby?utm_source=share-link&utm_medium=l
 - [Dapp-a-day by MakerDAO](https://steemit.com/ethereum/@nikolai/dapp-a-day-1-erc20)
 - [colony.io on solidity development](https://blog.colony.io/@elena_di)
 - [smart contract best practices by consensys](https://github.com/ConsenSys/smart-contract-best-practices)
+- [Solidity Workshop (advanced)](https://github.com/androlo/solidity-workshop)
+- [Dapple/Dappsys](http://blog.nexusdev.us/dapple-tutorial/)
  
 ## Ethereum (Dev) Tools
 
