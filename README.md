@@ -26,12 +26,13 @@ https://gitter.im/ethereum-meetup-mainz/Lobby?utm_source=share-link&utm_medium=l
 
 ## Solidity Development
 
+### Pre-Basics
+ - [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.f2m6k5up3)
+  
 ### Basics
 - [Solidity ReadTheDocs](https://solidity.readthedocs.io/en/develop/)
 - [Learn Solidity in Y Minutes](https://learnxinyminutes.com/docs/solidity/)
-- [Dapp-a-day by MakerDAO](https://steemit.com/ethereum/@nikolai/dapp-a-day-1-erc20)
-- [colony.io on solidity development](https://blog.colony.io/@elena_di)
-- [smart contract best practices by consensys](https://github.com/ConsenSys/smart-contract-best-practices)
+- [Monax formerly known as Eris Solidity Tutorials](https://monax.io/docs/tutorials/getting-started/)
 
 ### Ether.Camp Studio IDE
 - [Ether.Camp ReadTheDocs](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/)
@@ -42,6 +43,21 @@ https://gitter.im/ethereum-meetup-mainz/Lobby?utm_source=share-link&utm_medium=l
 ### Browser-Solidity
 - [Browser-Solidity, use with MetaMask](https://ethereum.github.io/browser-solidity)
 
+### Private Chains
+ - [Ethereum Consortium Blockhchain Network](https://github.com/Azure/azure-quickstart-templates/tree/master/ethereum-consortium-blockchain-network)
+
+### Quality Assurance / Testing
+ - [Ethereum Testing Reference for Studio IDE](https://github.com/ether-camp/ethereum-testing-reference)
+ 
+### "Sidechains" - alternative Solutions for Ethereum Development
+ - [Bloc/Blockapps](http://www.blockapps.net/)
+ - [Eris](https://www.monax.io)
+ 
+### Best Practices in Solidity development
+- [Dapp-a-day by MakerDAO](https://steemit.com/ethereum/@nikolai/dapp-a-day-1-erc20)
+- [colony.io on solidity development](https://blog.colony.io/@elena_di)
+- [smart contract best practices by consensys](https://github.com/ConsenSys/smart-contract-best-practices)
+ 
 ## Ethereum (Dev) Tools
 
 ### Ether.Camp
@@ -67,3 +83,17 @@ https://gitter.im/ethereum-meetup-mainz/Lobby?utm_source=share-link&utm_medium=l
 
 ### Business focussed (contract creation mechanism)
 - [SmartContract](https://testnet.smartcontract.com)
+
+## Ideas for next Meetups
+
+# Injecting Reality: Concept and Implementation of Oracles with oraclize.it
+# Using Dapps with MetaMask and Mist
+# The DAObakel: what happened and how to avoid it.
+# Beyond hello world: Software Engineering Principles in Smart Contract Development
+# Organisation of Meetup Groups as Decentral Automonuos Organisations: Creating a Meetup Group DAO
+# Beginning Smart Contract Development: browsersolidity, Mist and ether.camp
+# Revisiting centralisation: Bridging real world requirements and Ethereum VM
+# Dinosaurs Revenge... 0 loc js ... blockchainers.org
+# The TAO: The DAO done right
+# Hazelchain: the blockchain implemented in Hazelcast
+
