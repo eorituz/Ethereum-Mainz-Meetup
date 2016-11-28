@@ -61,6 +61,7 @@ https://gitter.im/ethereum-meetup-mainz/Lobby?utm_source=share-link&utm_medium=l
 - [smart contract best practices by consensys](https://github.com/ConsenSys/smart-contract-best-practices)
 - [Solidity Workshop (advanced)](https://github.com/androlo/solidity-workshop)
 - [Dapple/Dappsys](http://blog.nexusdev.us/dapple-tutorial/)
+- [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity)
  
 ## Ethereum (Dev) Tools
 
