@@ -62,6 +62,7 @@ https://gitter.im/ethereum-meetup-mainz/Lobby?utm_source=share-link&utm_medium=l
 - [Solidity Workshop (advanced)](https://github.com/androlo/solidity-workshop)
 - [Dapple/Dappsys](http://blog.nexusdev.us/dapple-tutorial/)
 - [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity)
+-- [Manuel Araoz](https://medium.com/@maraoz)
  
 ## Ethereum (Dev) Tools
 
